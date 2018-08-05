@@ -32,7 +32,7 @@ header {
     padding: 20px;
 }
 
-.tags {
+nav {
     float: right;
     margin-right: 10%;
     margin-top: 25px;
@@ -62,22 +62,17 @@ img {
 }
 
 .gallery {
-    clear: both;
-    border: 1px solid #dddddd;
-    width: 200px;
-    height: 300px;
+    float: left;
+    width: 250px;
 }
 
 .gallery img {
     width: 100%;
     height: auto;
-    padding: 0;
 }
 
 .desc {
-    background-color: #4aaaa5;
-    color: white;
-    width: 100%;
+    text-align: center;
 }
 
 footer {
