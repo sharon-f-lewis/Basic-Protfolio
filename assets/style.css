@@ -1,7 +1,7 @@
 * {
-  outline:1px dotted black;
-  /* box-sizing: border-box; */
-}
+  /* outline:1px dotted black; */
+  box-sizing: border-box;
+} 
 
 body {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
